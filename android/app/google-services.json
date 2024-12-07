@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "204355283711",
+    "project_id": "pizza-lab-63cca",
+    "storage_bucket": "pizza-lab-63cca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204355283711:android:8d3c2f0db8cf385dfa3aca",
+        "android_client_info": {
+          "package_name": "com.mycompany.coffeeshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2dM8zKlqAjq6sKvnSztKwkK92rmV9DA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204355283711:android:6220b782243eec62fa3aca",
+        "android_client_info": {
+          "package_name": "com.mycompany.pizzalab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2dM8zKlqAjq6sKvnSztKwkK92rmV9DA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
